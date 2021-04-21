@@ -1,0 +1,41 @@
+
+.contenedor{
+    width: 70%;
+    margin-left: 2%;
+}
+h2{
+    width: 100%;
+    font-size: 100%;
+}
+.foto2{
+width: 80%;
+}
+.foto3{
+    width: 80%;
+ 
+}
+.texto-div{
+    font-size: 100%;
+}
+
+p{
+    width: 80%;
+    font-size: 100%;
+    text-align: center;
+    line-height: 100%;
+    margin-left: 2%;
+    margin-right: 2px;
+}
+.boton{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+   
+    font-size: 50%;
+}
+.otro{
+    font-size: 100%;
+}
+.noticias{
+    font-size: 100%;
+}

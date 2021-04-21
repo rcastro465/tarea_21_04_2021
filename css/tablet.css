@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    line-height: 16px;
+    text-align: center;
+}
+
+.costado{
+    display: none;
+}
+h1{
+    width: 100%;
+    text-align: center;
+    
+    font-size: 200%;
+   
+}
+.container{
+    width: 100%;
+}
+.div1{
+    width: 100%;
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+   
+    }
+.foto1{
+  text-align: center;
+    width:100%;
+    margin: auto;
+  
+   
+    
+}
+
+.contenedor{
+    width: 100%;
+}
+h2{
+ 
+    font-size: 100%;
+}
+p{
+    width: 100%;
+}
+
+.body-centro{
+    width: 100%;
+    
+}
+.div2{
+width: 50%;
+}
+
+.div3{
+    width: 50%;
+}
+
+.texto-div{
+    font-family: 'Monoton', cursive;
+    font-size: 80%;
+    padding-bottom: 10px;
+    }
